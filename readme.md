@@ -118,5 +118,10 @@ SECTIONS
 Dans le répertoire chapitre1 vous trouverez le programme habituel pour faire clignoter la led. Vous y trouverez aussi le makefile et le fichier  memmap.ld.
 
   [ Chapitre1](https://github.com/vincentARM/Pico2ArmAssembly/tree/main/Chapitre01)  Clignotement Led.
+
+  [ Chapitre2](https://github.com/vincentARM/Pico2ArmAssembly/tree/main/Chapitre02)  Allumage et extinction de la Led.
   
-  [ Chapitre2](https://github.com/vincentARM/Pico2ArmAssembly/tree/main/Chapitre02)  Allumage extinction de la Led
+  [ Chapitre3](https://github.com/vincentARM/Pico2ArmAssembly/tree/main/Chapitre03)  Utilisation du core1
+
+  
+  
