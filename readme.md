@@ -4,6 +4,8 @@ Dans cette partie, nous allons nous intéresser à la programmation assembleur A
 Le pico2 dispose d’un processeur RP2350 avec 2 cœurs ARM cortex M33 ce qui autorise de nouvelles instructions par rapport aux cœurs M0+ du rp2040.
 Il dispose aussi d ‘un processeur Hazard3 avec 2 coeurs riscv, et nous verrons dans une autre partie la programmation en assembleur riscv.
 
+Mon intention n'est pas de vous proposer un cours sur les instructions assembleur ARM mais plutôt de vous donner un aperçu des possibilités de l'assembleur sur le pico2 et de vous proposer des petits programmes qui peuvent vous éviter de nombreuses dificultés.
+
 Je vous conseille de téléchargez la datasheet rp2350 sur le site de raspberry et la documentation sur les instructions assembleur ARM sur le site : https://developer.arm.com/documentation/den0013/0400/Introduction-to-Assembly-Language/The-ARM-instruction-sets
 
 Les outils :
