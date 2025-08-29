@@ -1,4 +1,4 @@
-# Introduction
+## Introduction
 
 Dans cette partie, nous allons nous intéresser à la programmation assembleur ARM sans l’utilisation du sdk C++ sur le pico 2.
 Le pico2 dispose d’un processeur RP2350 avec 2 cœurs ARM cortex M33 ce qui autorise de nouvelles instructions par rapport aux cœurs M0+ du rp2040.
@@ -8,7 +8,8 @@ Mon intention n'est pas de vous proposer un cours sur les instructions assembleu
 
 Je vous conseille de téléchargez la datasheet rp2350 sur le site de raspberry et la documentation sur les instructions assembleur ARM sur le site : https://developer.arm.com/documentation/den0013/0400/Introduction-to-Assembly-Language/The-ARM-instruction-sets
 
-Les outils :
+### Les outils :
+
 En ce qui me concerne, je programme avec notepad++, mais vous pouvez utiliser n’importe quel éditeur.
 
 Pour compiler en assembleur arm, il faut installer le compilateur et le linker à partir du site :
