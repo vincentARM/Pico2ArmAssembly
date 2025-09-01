@@ -13,4 +13,4 @@ J’ai modifié aussi la fonction d’attente pour avoir un délai d’une milli
 
 L’exécution montre la led clignoter 5 fois avec un délai de 1s entre chaque eclair puis clignoter beaucoup plus rapidement 10 fois et le pico bascule en mode bootsel.
 
-Si vous voulez relancer l’execution, il suddit de débrancher, rebrancher le pico.
+Si vous voulez relancer l’execution, il suffit de débrancher, rebrancher le pico.
