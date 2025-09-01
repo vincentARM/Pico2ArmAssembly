@@ -18,6 +18,11 @@ chap5.bin :   memmap.ld chap5.o routinesARMGit.o
 routinesARMGit.o : ./routinesARMGit.s ./constantesPico2Git.inc
 	$(ARMGNU)\as $(AOPS)  ./routinesARMGit.s -o ./routinesARMGit.o
 ```
+Dans le fichier des routines nous ajoutons aussi l'intruction :
+```
+.global ledEclats,attendre,resetPicoBoot,initHorloges
+```
+pour permettre au linker d'acceder à ces routines.
 
 Dans le programme source chap5.s, nous créons dans la .data la table VTOR composées d’adresses vers des sous routines et dont le plus grand nombres pointent vers une boucle.
 Vous remarquerez que la VTOR a un alignement particulier sur une frontière de 64 octets (2 puissance 5).
