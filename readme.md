@@ -130,3 +130,5 @@ Dans le répertoire chapitre1 vous trouverez le programme habituel pour faire cl
 
   [ Chapitre5](https://github.com/vincentARM/Pico2ArmAssembly/tree/main/Chapitre05) Mise en place VTOR et traitement des exceptions
   
+  [ Chapitre6](https://github.com/vincentARM/Pico2ArmAssembly/tree/main/Chapitre06) Connexion série USB
+
