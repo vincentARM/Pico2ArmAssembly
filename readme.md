@@ -127,5 +127,6 @@ Dans le répertoire chapitre1 vous trouverez le programme habituel pour faire cl
   [ Chapitre3](https://github.com/vincentARM/Pico2ArmAssembly/tree/main/Chapitre03)  Utilisation du core1
 
   [ Chapitre4](https://github.com/vincentARM/Pico2ArmAssembly/tree/main/Chapitre04)  Utilisation horloge systeme
-  
+
+  [ Chapitre5](https://github.com/vincentARM/Pico2ArmAssembly/tree/main/Chapitre05) Mise en place VTOR et traitement des exceptions
   
