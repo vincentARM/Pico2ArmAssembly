@@ -133,3 +133,5 @@ Dans le répertoire chapitre1 vous trouverez le programme habituel pour faire cl
   [ Chapitre6](https://github.com/vincentARM/Pico2ArmAssembly/tree/main/Chapitre06) Connexion série USB
 
   [ Chapitre7](https://github.com/vincentARM/Pico2ArmAssembly/tree/main/Chapitre07) Utilsation des macros, affichage registres et mémoire
+
+  [ Chapitre8](https://github.com/vincentARM/Pico2ArmAssembly/tree/main/Chapitre08) mesure de la température capteur ADC
